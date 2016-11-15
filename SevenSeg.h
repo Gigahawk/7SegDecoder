@@ -3,8 +3,6 @@
 
 //#define DEBUG
 
-
-
 //Simulates a decoder for a 7 segment display using K-Maps
 unsigned char getDigit(unsigned char input);
 
